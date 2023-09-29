@@ -1,0 +1,4 @@
+.env
+bars_venv/
+__pycache__/
+migrations/
